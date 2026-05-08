@@ -86,9 +86,4 @@ Backend: http://localhost:5000
 ### Dashboard
 - `GET /api/dashboard/stats`
 
-## Submission Checklist
 
-- Live Railway URL
-- GitHub repo link
-- README file
-- 2–5 minute demo video
