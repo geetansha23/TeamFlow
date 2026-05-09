@@ -4,7 +4,7 @@ import axios from "axios";
 import { CheckCircle2, Clock3, FolderKanban, LayoutDashboard, LogOut, Plus, Shield, Users } from "lucide-react";
 import "./styles.css";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+const API = import.meta.env.VITE_API_URL || "/api";
 
 const api = axios.create({ baseURL: API });
 
